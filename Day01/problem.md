@@ -33,5 +33,5 @@ Constraints:
 
 # References:
 
-[Converting binary number in a linked list to integer] (https://medium.com/@yinazee/convert-binary-number-in-a-linked-list-to-integer-1a7f9ea828d7)
-[Convert binary to decimal] (https://stackoverflow.com/questions/10258828/how-to-convert-binary-string-to-decimal)
+[Converting binary number in a linked list to integer](https://medium.com/@yinazee/convert-binary-number-in-a-linked-list-to-integer-1a7f9ea828d7)
+[Convert binary to decimal](https://stackoverflow.com/questions/10258828/how-to-convert-binary-string-to-decimal)
